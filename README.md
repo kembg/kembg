@@ -1,11 +1,11 @@
 <h1 align="center">Olá 👋, Eu me chamo Kennedy</h1>
 <h3 align="center">Sou aluno da Universidade Federal do ABC, onde vou me formar em nas áreas de Ciências da Computação e Biotecnologia, tenho muito desejo por conhecimento, o que me motivou a escolher um curso interdisciplinar, e resolver problemas, sejam os sociais ou técnicos. Recentemente me formei no Bootcamp de Pessoa Desenvolvedora Web Java Junior da ong Generation Brasil e estou aberto a oportunidades para ganhar mais experiência na área, onde buscarei me aperfeiçoar ainda mais não só em habilidades técnicas mas também de gestão, como metodologia ágil SCRUM. Tenho experiência em trabalhar em equipe e capacidade de autodidatismo, que uso atualmente para melhorar minhas habilidades com TypeScript, Python e a língua Mandarim. Sou muito persistente e curioso, acredito que todos têm algo para ensinar e a descoberta de uma nova fluência é algo que ainda não sabemos.</h3>
 
-- 📫 How to reach me **https://www.linkedin.com/in/kennedy-gouveia**
+- 📫 entre em contato comigo : **kennedymoises2@gmail.com**
 
 <h3 align="left">:</h3>
 <p align="left">
-<a href="kennedymoises2@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kennedy-gouveia" height="30" width="40" /></a>
+<a href=" https://www.linkedin.com/in/kennedy-gouveia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kennedy-gouveia" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -16,4 +16,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kembg&show_icons=true&locale=en" alt="kembg" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kembg&" alt="kembg" /></p>
-conecte comigo
+
