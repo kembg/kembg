@@ -1,6 +1,6 @@
 <h1 align="center">Olá 👋, Eu me chamo Kennedy</h1>
-<h3 align="center">Sou aluno da Universidade Federal do ABC, onde vou me formar em nas áreas de Ciências da Computação e Biotecnologia, tenho muito desejo por conhecimento, o que me motivou a escolher um curso interdisciplinar, e resolver problemas, sejam os sociais ou técnicos. Recentemente me formei no Bootcamp de Pessoa Desenvolvedora Web Java Junior da ong Generation Brasil e estou aberto a oportunidades para ganhar mais experiência na área, onde buscarei me aperfeiçoar ainda mais não só em habilidades técnicas mas também de gestão, como metodologia ágil SCRUM. Tenho experiência em trabalhar em equipe e capacidade de autodidatismo, que uso atualmente para melhorar minhas habilidades com TypeScript, Python e a língua Mandarim. Sou muito persistente e curioso, acredito que todos têm algo para ensinar e a descoberta de uma nova fluência é algo que ainda não sabemos.</h3>
-
+<h3 align="center">Sou aluno da Universidade Federal do ABC, onde vou me formar em nas áreas de Ciências da Computação e Biotecnologia.
+Recentemente me formei no Bootcamp de Pessoa Desenvolvedora Web Java Junior da ong Generation Brasil e estou aberto a oportunidades para ganhar mais experiência na área.</h3>
 - 📫 entre em contato comigo : **kennedymoises2@gmail.com**
 
 
