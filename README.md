@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, Eu me chamo Kennedy</h1>
 <h3 align="center">Sou aluno da Universidade Federal do ABC, onde vou me formar em nas áreas de Ciências da Computação e Biotecnologia.
 Recentemente me formei no Bootcamp de Pessoa Desenvolvedora Web Java Junior da ong Generation Brasil e estou aberto a oportunidades para ganhar mais experiência na área.</h3>
-- 📫 entre em contato comigo : **kennedymoises2@gmail.com**
+- 📫 entre em contato comigo : kennedymoises2@gmail.com
 
 
 <p align="left">
